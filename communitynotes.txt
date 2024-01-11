@@ -1,0 +1,5 @@
+802a08cc
+the function at 802a08cc runs every few frames in top ride
+it was found via the breakpoint at 802a0944
+  the function seems to have a for loop in it.
+it is caled by what seems to be part of the main loop
