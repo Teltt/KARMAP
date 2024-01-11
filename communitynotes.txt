@@ -7,3 +7,8 @@ it is caled by what seems to be part of the main loop
 the function at 8020152c runs as part of the player, post physics update
 this is indicated the the KAR map, however the parent function is small so I suspect something fishy
 it was found via a breakpoint at 80201554
+8020b784 
+the function at 8020b784 appears to be part of some specific physics edge case
+as indicated by the KAR map, it calls player, post physics update
+
+it was found via a breakpoint at 8020bae4
