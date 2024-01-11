@@ -10,5 +10,5 @@ it was found via a breakpoint at 80201554
 8020b784 
 the function at 8020b784 appears to be part of some specific physics edge case
 as indicated by the KAR map, it calls player, post physics update
-
+it activates when an enemy is going to be hurt.
 it was found via a breakpoint at 8020bae4
