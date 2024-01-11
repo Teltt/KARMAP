@@ -3,3 +3,7 @@ the function at 802a08cc runs every few frames in top ride
 it was found via the breakpoint at 802a0944
   the function seems to have a for loop in it.
 it is caled by what seems to be part of the main loop
+8020152c
+the function at 8020152c runs as part of the player, post physics update
+this is indicated the the KAR map, however the parent function is small so I suspect something fishy
+it was found via a breakpoint at 80201554
