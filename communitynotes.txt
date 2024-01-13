@@ -13,3 +13,6 @@ as indicated by the KAR map, it calls player, post physics update
 it activates when an enemy is going to be hurt., or possibly die it doesn't happen when kriby swallows though
 user tenacious thinks it has to do with the initial damage collision
 it was found via a breakpoint at 8020bae4
+
+
+the breakpoint at  8020542c is related to the needle enemy fading in and out
